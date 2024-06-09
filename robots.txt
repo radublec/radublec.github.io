@@ -1,0 +1,8 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://radublec.github.io/sitemap.html
+Sitemap: https://radublec.github.io/app/sitemap.html
+Sitemap: https://radublec.github.io/assets/sitemap.html
+Sitemap: https://radublec.github.io/includes/sitemap.html
+Sitemap: https://radublec.github.io/src/sitemap.html
